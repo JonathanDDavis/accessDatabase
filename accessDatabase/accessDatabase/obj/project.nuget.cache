@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "i2zmbD20zkHukdjLRP16b7VkGUPdviPOU8WvgA3UmLEIOFMNGavlEuavIvhqPOhm8w77HySqfAZ6f3ff0X4qSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\coolj\\OneDrive - Ozarks Technical Community College\\C# 2 Programs\\accessDatabase\\accessDatabase\\accessDatabase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\coolj\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\coolj\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\coolj\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\coolj\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
